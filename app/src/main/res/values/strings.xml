@@ -1,0 +1,70 @@
+<resources>
+
+    <!--for configuration-->
+    <string name="nav_open" translatable="false">Open</string>
+    <string name="nav_close" translatable="false">Close</string>
+
+    <string name="app_name">CarServicesApp</string>
+    <string name="sign_in_with_google">SignIn With Google Account</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="name_hint">Name</string>
+    <string name="hint_mobile_number">Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="login">Login</string>
+    <string name="sign_in">SignIn</string>
+    <string name="email_missing_message">email must not be empty!</string>
+    <string name="password_missing_message">password must not be empty!</string>
+    <string name="name_missing_message">name must not be empty!</string>
+    <string name="set_password">Set Password</string>
+    <string name="password_not_matching_message">passwords are not matching!</string>
+    <string name="update_profile">Update profile</string>
+    <string name="my_orders">My orders</string>
+    <string name="details">Details</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="details_empty_message">please specify some details!</string>
+    <string name="cart">Cart</string>
+    <string name="select_date">Select date</string>
+    <string name="check_your_details">Please check your details before confirming your booking</string>
+    <string name="confirm">Confirm</string>
+    <string name="hint_password_retype">Retype password</string>
+    <string name="address">Address</string>
+    <string name="zip_code">zip code</string>
+    <string name="phone_missing_message">phone must not be empty</string>
+    <string name="address_missing_message">address must not be empty</string>
+    <string name="zip_code_missing">enter a valid zip code!</string>
+
+    <string name="status_new">NEW</string>
+    <string name="status_rejected">REJECTED</string>
+    <string name="status_processing">PROCESSING</string>
+    <string name="status_completed">COMPLETED</string>
+
+    <string name="price_unit">SAR</string>
+
+    <string name="no_orders_placeholder">No Orders Yet</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="are_you_sure_you_want_to_delete">Are you sure that you want to delete this service from the cart?</string>
+    <string name="confirmation_dialog">Confirmation dialog</string>
+    <string name="for_admins">For Admins</string>
+
+
+    <string name="enter_manager_key">Enter Manager Key</string>
+    <string name="cancel">Cancel</string>
+    <string name="manager_key" translatable="false">0123456789</string>
+    <string name="save">ok</string>
+
+    <string name="must_chose_new_status">you must choose a new status</string>
+    <string name="chose_at_least_one_status">chose a status first</string>
+    <string name="choose_new_status">Set a new status</string>
+    <string name="order_details">Order Details</string>
+
+
+</resources>
